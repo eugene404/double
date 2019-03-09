@@ -7,6 +7,7 @@ namespace test
         static void Main(string[] args)
         {
             Console.WriteLine("efdldkhneasjdwabn");
+            Console.WriteLine("new featyure");
             Console.Read();
         }
     }
